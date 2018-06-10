@@ -11,10 +11,19 @@ ul, li {
   list-style-position: inside;
 }
 
+h2 {
+  font-weight: 800;
+  text-align: left;
+  font-size: 1.8rem;
+  color: #e6eaee;
+  margin: 10px 20px;
+  text-align: left;
+}
+
 h3 {
   font-weight: 600;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 button {
@@ -97,7 +106,7 @@ button:disabled {
 
 .chat__sidebar h3 {
   color: #e6eaee;
-  margin: 10px 20px;
+  margin: 20px 20px;
   text-align: left;
 }
 
