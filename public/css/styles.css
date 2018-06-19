@@ -131,6 +131,7 @@ button:disabled {
 
 .chat__messages {
   flex-grow: 1;
+  border-color: #ff0000;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
