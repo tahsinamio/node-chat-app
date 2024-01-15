@@ -5,6 +5,7 @@ Created with node.js, socket.io and react.js
 Used by my high school's mental health support group for anonymous chats.
 
 link: https://stanforum.herokuapp.com/
+
 ⛔ demo app not working due to heroku dropping their free tier :(
 
 ### Homepage
