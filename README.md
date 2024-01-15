@@ -2,6 +2,8 @@
 Chat application where users can join a room and choose to send their location.
 Created with node.js, socket.io and react.js
 
+Used by my high school's mental health support group for anonymous chats.
+
 link: https://stanforum.herokuapp.com/
 
 ### Homepage
